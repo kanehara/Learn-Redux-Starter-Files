@@ -4,10 +4,10 @@ const Single = React.createClass({
   render() {
     return (
       <div className="single-photo">
-        I'm the single
+        Im the single
       </div>
     )
   }
 })
 
-export default Main;
+export default Single;
